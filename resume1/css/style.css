@@ -49,12 +49,6 @@ li{
   list-style-type: none;
 }
 
-/* Added by jelkner 2022-01-23 */
-a, a:visited{
-  text-decoration: none;
-  color: #555;
-}
-
 #main{
   float: left;
   width: var(--main-width);
